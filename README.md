@@ -1,60 +1,43 @@
-<div align="center">
+<a href="https://github.com/KagamiStar">
+  <img
+    align="right"
+    src="https://github.com/KagamiStar.png"
+    width="180"
+    height="180"
+    alt="avatar"
+    style="border-radius: 50%; object-fit: cover;"
+  />
+</a>
 
-# 👋 你好，这里是KagamiStar
+### Hi there 👋
 
-### React / TypeScript 前端开发
+### 你好，我是KagamiStar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=React+%2B+TypeScript;Frontend+Developer;Keep+Learning%2C+Keep+Building." />
+🔹 **React / TypeScript 前端开发**
 
-</div>
+💡 **专注于现代 Web 前端开发与工程实践**
 
----
-
-## 关于我
-
-* 💻 专注于 **React + TypeScript 前端开发**
-* 🧩 关注组件设计、状态管理、性能优化与前端工程化
-
----
-
-## 技术栈
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts" />
-
-<br />
-
-**React · TypeScript**
-
-</div>
+<br clear="right"/>
 
 ---
 
-## GitHub 数据
+## 📌 关于我
 
-<div align="center">
+👨‍💻 目前主要专注于 **React + TypeScript** 前端开发。
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&locale=cn" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&locale=cn" />
-
-</div>
+关注 **组件设计、状态管理、性能优化与代码可维护性**，希望通过持续的学习与实践，不断提升自己的前端开发能力。
 
 ---
 
-## 贡献记录
+## 🚀 技术栈
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ---
 
 <div align="center">
 
-**Keep Learning · Keep Building**
+**Keep Learning · Keep Building.**
 
 </div>
