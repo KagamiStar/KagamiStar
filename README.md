@@ -4,7 +4,7 @@
     src="https://github.com/KagamiStar.png"
     width="180"
     height="180"
-    alt="avatar"
+    alt="KagamiStar"
     style="border-radius: 50%; object-fit: cover;"
   />
 </a>
